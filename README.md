@@ -1,6 +1,11 @@
 # IEEE_AWS
 ## Create AWS Account
 
+### Download an IDE (like atom)
+```
+https://atom.io/
+```
+
 ## First part of the walkthrough
 ```
 https://docs.aws.amazon.com/AmazonS3/latest/dev/HostingWebsiteOnS3Setup.html
